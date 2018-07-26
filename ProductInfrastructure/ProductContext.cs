@@ -2,7 +2,7 @@
 using System.Data.Entity;
 
 
-namespace ProductInfrastructure
+namespace ProductApp.Infrastructure
 {
     public class ProductContext:DbContext
     {

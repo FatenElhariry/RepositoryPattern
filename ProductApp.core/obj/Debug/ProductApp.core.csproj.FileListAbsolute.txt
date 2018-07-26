@@ -1,0 +1,5 @@
+c:\users\faten elhariry\Source\repos\ProductApp\ProductApp.core\bin\Debug\ProductApp.core.dll
+c:\users\faten elhariry\Source\repos\ProductApp\ProductApp.core\bin\Debug\ProductApp.core.pdb
+c:\users\faten elhariry\Source\repos\ProductApp\ProductApp.core\obj\Debug\ProductApp.core.csproj.CoreCompileInputs.cache
+c:\users\faten elhariry\Source\repos\ProductApp\ProductApp.core\obj\Debug\ProductApp.core.dll
+c:\users\faten elhariry\Source\repos\ProductApp\ProductApp.core\obj\Debug\ProductApp.core.pdb

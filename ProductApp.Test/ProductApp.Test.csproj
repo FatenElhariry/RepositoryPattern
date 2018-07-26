@@ -55,12 +55,22 @@
     <Reference Include="System.Core" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="UnitTest1.cs" />
+    <Compile Include="ProductRepositoryTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ProductApp.core\ProductApp.core.csproj">
+      <Project>{62cab1e3-79a8-4d6f-8efe-8cdf1d2c8725}</Project>
+      <Name>ProductApp.core</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ProductInfrastructure\ProductApp.Infrastructure.csproj">
+      <Project>{9d94ce17-e942-4c57-98a6-31e91d7fcbea}</Project>
+      <Name>ProductApp.Infrastructure</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets" Condition="Exists('$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets')" />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

@@ -1,0 +1,13 @@
+c:\users\faten elhariry\Source\repos\ProductApp\ProductInfrastructure\bin\Debug\ProductApp.Infrastructure.dll.config
+c:\users\faten elhariry\Source\repos\ProductApp\ProductInfrastructure\bin\Debug\ProductApp.Infrastructure.dll
+c:\users\faten elhariry\Source\repos\ProductApp\ProductInfrastructure\bin\Debug\ProductApp.Infrastructure.pdb
+c:\users\faten elhariry\Source\repos\ProductApp\ProductInfrastructure\bin\Debug\EntityFramework.dll
+c:\users\faten elhariry\Source\repos\ProductApp\ProductInfrastructure\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\faten elhariry\Source\repos\ProductApp\ProductInfrastructure\bin\Debug\ProductApp.core.dll
+c:\users\faten elhariry\Source\repos\ProductApp\ProductInfrastructure\bin\Debug\ProductApp.core.pdb
+c:\users\faten elhariry\Source\repos\ProductApp\ProductInfrastructure\bin\Debug\EntityFramework.xml
+c:\users\faten elhariry\Source\repos\ProductApp\ProductInfrastructure\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\faten elhariry\Source\repos\ProductApp\ProductInfrastructure\obj\Debug\ProductApp.Infrastructure.csprojResolveAssemblyReference.cache
+c:\users\faten elhariry\Source\repos\ProductApp\ProductInfrastructure\obj\Debug\ProductApp.Infrastructure.csproj.CoreCompileInputs.cache
+c:\users\faten elhariry\Source\repos\ProductApp\ProductInfrastructure\obj\Debug\ProductApp.Infrastructure.dll
+c:\users\faten elhariry\Source\repos\ProductApp\ProductInfrastructure\obj\Debug\ProductApp.Infrastructure.pdb
